@@ -13,9 +13,6 @@
 ![View User](https://github.com/FadhaeilRizkiMahwendi/ServisKomputer/blob/main/PBKK/user/user-customers.png?raw=true)
 <p><b>View User Customer</b></p>
 
-![View User](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/User/ViewUser_SuratKeluar.png?raw=true)
-<p><b>View User Surat Keluar</b></p>
-
 ![View User](https://github.com/FadhaeilRizkiMahwendi/ServisKomputer/blob/main/PBKK/user/user-komputer.png?raw=true)
 <p><b>View User Komputer</b></p>
 
@@ -33,26 +30,41 @@
 
 
 
-![View Admin Nama Tanda Tangan](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/Admin/ViewAdmin_NamaTandaTangan.png?raw=true)
-<p><b>View Admin Nama Tanda Tangan</b></p>
+![View Admin](https://github.com/FadhaeilRizkiMahwendi/ServisKomputer/blob/main/PBKK/admin/admin-dashboard.png?raw=true)
+<p><b>View Admin Dashboard</b></p>
 
-![View Admin Kepala Surat](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/Admin/ViewAdmin_KepalaSurat.png?raw=true)
-<p><b>View Admin Kepala Surat</b></p>
+![View Admin](https://github.com/FadhaeilRizkiMahwendi/ServisKomputer/blob/main/PBKK/admin/admin-computer.png?raw=true)
+<p><b>View Admin Customer</b></p>
 
-![View Admin Surat Keluar](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/Admin/ViewAdmin_SuratKeluar.png?raw=true)
-<p><b>View Admin Surat Keluar</b></p>
+![View Admin](https://github.com/FadhaeilRizkiMahwendi/ServisKomputer/blob/main/PBKK/admin/admin-komputer.png?raw=true)
+<p><b>View Admin Komputer</b></p>
 
-![View Admin Surat Masuk](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/Admin/ViewAdmin_SuratMasuk.png?raw=true)
-<p><b>View Admin Surat Masuk</b></p>
+![View Admin](https://github.com/FadhaeilRizkiMahwendi/ServisKomputer/blob/main/PBKK/admin/admin-pegawai.png?raw=true)
+<p><b>View Admin Pegawai</b></p>
 
-![View Admin Create Nama Tanda Tangan](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/Admin/ViewAdmin_CreateNamaTandaTangan.png?raw=true)
-<p><b>View Admin Create Nama Tanda Tangan</b></p>
+![View Admin](https://github.com/FadhaeilRizkiMahwendi/ServisKomputer/blob/main/PBKK/admin/admin-keluhan.png?raw=true)
+<p><b>View Admin Keluhan</b></p>
 
-![View Admin Create Kepala Surat](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/Admin/ViewAdmin_CreateKepalaSurat.png?raw=true)
-<p><b>View Admin Create Kepala Surat</b></p>
+![View Admin](https://github.com/FadhaeilRizkiMahwendi/ServisKomputer/blob/main/PBKK/admin/admin-barang.png?raw=true)
+<p><b>View Admin Barang</b></p>
 
-![View Admin Create Surat Keluar](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/Admin/ViewAdmin_CreateSuratKeluar.png?raw=true)
-<p><b>View Admin Create Surat Keluar</b></p>
+![View Admin](https://github.com/FadhaeilRizkiMahwendi/ServisKomputer/blob/main/PBKK/admin/admin-supplier.png?raw=true)
+<p><b>View Admin Supplier</b></p>
 
-![View Admin Create Surat Masuk](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/Admin/ViewAdmin_CreateSuratMasuk.png?raw=true)
-<p><b>View Admin Create Surat Masuk</b></p>
+![View Admin](https://github.com/FadhaeilRizkiMahwendi/ServisKomputer/blob/main/PBKK/admin/create-customers.png?raw=true)
+<p><b>View Admin Create Customers</b></p>
+
+![View Admin](https://github.com/FadhaeilRizkiMahwendi/ServisKomputer/blob/main/PBKK/admin/create-komputer.png?raw=true)
+<p><b>View Admin Create Komputer</b></p>
+
+![View Admin](https://github.com/FadhaeilRizkiMahwendi/ServisKomputer/blob/main/PBKK/admin/create-pegawai.png?raw=true)
+<p><b>View Admin Create Pegawai</b></p>
+
+![View Admin](https://github.com/FadhaeilRizkiMahwendi/ServisKomputer/blob/main/PBKK/admin/create-keluhan.png?raw=true)
+<p><b>View Admin Create Keluhan</b></p>
+
+![View Admin](https://github.com/FadhaeilRizkiMahwendi/ServisKomputer/blob/main/PBKK/admin/create-barang.png?raw=true)
+<p><b>View Admin Create Barang</b></p>
+
+![View Admin](https://github.com/FadhaeilRizkiMahwendi/ServisKomputer/blob/main/PBKK/admin/create-supplier.png?raw=true)
+<p><b>View Admin Create Supplier</b></p>
